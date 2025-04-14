@@ -2,7 +2,7 @@ Hello,
 
 this is a QML demonstration. It shows a menu page for a pad device with full functionality and calculation of all items shown.
 
-In the directory `MenuDemoGitDeploy` is an executable file called `MenuDemo`. You can download the directory and
+In the directory `MenuDemoGitDeploy` holds an executable file called `MenuDemo`. You can download the directory and
 run it to test on your computer.
 
 
