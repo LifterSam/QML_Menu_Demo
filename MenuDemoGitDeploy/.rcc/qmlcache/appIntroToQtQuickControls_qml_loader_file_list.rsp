@@ -1,0 +1,8 @@
+--resource
+C:/QT_Testing/06_QML-for-Beginners-Challenges-Intro-Qt-Quick-Controls/StartingProject/build/Qt_6_8_2_MinGW_64_bit_677c9c-Debug/.qt/rcc/qmake_IntroToQtQuickControls.qrc
+--resource
+C:/QT_Testing/06_QML-for-Beginners-Challenges-Intro-Qt-Quick-Controls/StartingProject/build/Qt_6_8_2_MinGW_64_bit_677c9c-Debug/.qt/rcc/appIntroToQtQuickControls_raw_qml_0.qrc
+/qt/qml/IntroToQtQuickControls/Main.qml
+/qt/qml/IntroToQtQuickControls/MenuSection.qml
+/qt/qml/IntroToQtQuickControls/SpiceDial.qml
+/qt/qml/IntroToQtQuickControls/MenuItemAndPrice.qml

@@ -1,0 +1,13 @@
+<RCC>
+  <qresource prefix="/qt/qml/IntroToQtQuickControls/">
+    <file alias="Main.qml">C:/QT_Testing/06_QML-for-Beginners-Challenges-Intro-Qt-Quick-Controls/StartingProject/Main.qml</file>
+    <file alias="MenuSection.qml">C:/QT_Testing/06_QML-for-Beginners-Challenges-Intro-Qt-Quick-Controls/StartingProject/MenuSection.qml</file>
+    <file alias="SpiceDial.qml">C:/QT_Testing/06_QML-for-Beginners-Challenges-Intro-Qt-Quick-Controls/StartingProject/SpiceDial.qml</file>
+    <file alias="MenuItemAndPrice.qml">C:/QT_Testing/06_QML-for-Beginners-Challenges-Intro-Qt-Quick-Controls/StartingProject/MenuItemAndPrice.qml</file>
+    <file alias="fonts/Kalam-Regular.ttf">C:/QT_Testing/06_QML-for-Beginners-Challenges-Intro-Qt-Quick-Controls/StartingProject/fonts/Kalam-Regular.ttf</file>
+    <file alias="images/khlav_kalash.jpg">C:/QT_Testing/06_QML-for-Beginners-Challenges-Intro-Qt-Quick-Controls/StartingProject/images/khlav_kalash.jpg</file>
+    <file alias="images/spice_level1.png">C:/QT_Testing/06_QML-for-Beginners-Challenges-Intro-Qt-Quick-Controls/StartingProject/images/spice_level1.png</file>
+    <file alias="images/spice_level3.png">C:/QT_Testing/06_QML-for-Beginners-Challenges-Intro-Qt-Quick-Controls/StartingProject/images/spice_level3.png</file>
+  </qresource>
+</RCC>
+

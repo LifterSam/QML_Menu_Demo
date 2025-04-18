@@ -1,0 +1,3 @@
+C:\Qt\Tools\CMake_64\bin\cmake.exe -E rm -f CMakeFiles\appIntroToQtQuickControls.dir/objects.a
+C:\Qt\Tools\mingw1310_64\bin\ar.exe qc CMakeFiles\appIntroToQtQuickControls.dir/objects.a @CMakeFiles\appIntroToQtQuickControls.dir\objects1.rsp
+C:\Qt\Tools\mingw1310_64\bin\g++.exe -DQT_QML_DEBUG -g -mwindows -Wl,--whole-archive CMakeFiles\appIntroToQtQuickControls.dir/objects.a -Wl,--no-whole-archive -o appIntroToQtQuickControls.exe -Wl,--out-implib,libappIntroToQtQuickControls.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\appIntroToQtQuickControls.dir\linkLibs.rsp

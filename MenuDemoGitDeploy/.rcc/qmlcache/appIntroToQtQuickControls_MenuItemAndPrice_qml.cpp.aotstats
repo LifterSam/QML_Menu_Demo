@@ -1,0 +1,36 @@
+[
+    {
+        "moduleFiles": [
+            {
+                "entries": [
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 35,
+                        "durationMicroseconds": 332,
+                        "errorMessage": "",
+                        "functionName": "value",
+                        "line": 10
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 15,
+                        "durationMicroseconds": 357,
+                        "errorMessage": "",
+                        "functionName": "text",
+                        "line": 14
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 16,
+                        "durationMicroseconds": 242,
+                        "errorMessage": "Cannot access value for name window",
+                        "functionName": "color",
+                        "line": 17
+                    }
+                ],
+                "filepath": "C:/QT_Testing/06_QML-for-Beginners-Challenges-Intro-Qt-Quick-Controls/StartingProject/MenuItemAndPrice.qml"
+            }
+        ],
+        "moduleId": "IntroToQtQuickControls(appIntroToQtQuickControls)"
+    }
+]

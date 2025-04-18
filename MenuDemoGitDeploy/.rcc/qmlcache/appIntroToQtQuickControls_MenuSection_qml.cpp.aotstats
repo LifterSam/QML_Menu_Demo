@@ -1,0 +1,44 @@
+[
+    {
+        "moduleFiles": [
+            {
+                "entries": [
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 38,
+                        "durationMicroseconds": 424,
+                        "errorMessage": "",
+                        "functionName": "subtotal",
+                        "line": 11
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 15,
+                        "durationMicroseconds": 228,
+                        "errorMessage": "",
+                        "functionName": "text",
+                        "line": 15
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 16,
+                        "durationMicroseconds": 256,
+                        "errorMessage": "Cannot access value for name window",
+                        "functionName": "color",
+                        "line": 17
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 23,
+                        "durationMicroseconds": 82,
+                        "errorMessage": "",
+                        "functionName": "fill",
+                        "line": 25
+                    }
+                ],
+                "filepath": "C:/QT_Testing/06_QML-for-Beginners-Challenges-Intro-Qt-Quick-Controls/StartingProject/MenuSection.qml"
+            }
+        ],
+        "moduleId": "IntroToQtQuickControls(appIntroToQtQuickControls)"
+    }
+]

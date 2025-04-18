@@ -1,0 +1,8 @@
+module IntroToQtQuickControls
+typeinfo appIntroToQtQuickControls.qmltypes
+prefer :/qt/qml/IntroToQtQuickControls/
+Main 1.0 Main.qml
+MenuSection 1.0 MenuSection.qml
+SpiceDial 1.0 SpiceDial.qml
+MenuItemAndPrice 1.0 MenuItemAndPrice.qml
+
